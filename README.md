@@ -1,3 +1,11 @@
+
+## Note on this fork
+
+This is a very quick hack using the annotation-parsing part of the code to instead generate a Kdenlive (Melt) project file with just the drawings on the presentation.
+
+It 90% works, but for whatever reason, some of the entries are off by a few seconds.
+
+
 # BigBlueButton Presentation Renderer
 
 The BigBlueButton web conferencing system provides the ability to
